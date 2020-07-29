@@ -28,7 +28,7 @@ func createDefaultLobbyCreatePageData() *CreatePageData {
 		Languages:         game.SupportedLanguages,
 		DrawingTime:       "120",
 		Rounds:            "4",
-		MaxPlayers:        "12",
+		MaxPlayers:        "120",
 		CustomWordsChance: "50",
 		ClientsPerIPLimit: "1",
 		EnableVotekick:    "true",
